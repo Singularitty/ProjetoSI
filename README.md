@@ -3,6 +3,8 @@
 ## - Mini-Projeto 1 : Pacman Comilão
 
 ### - To Do:
-      - Definir metodos: Actions, Result, path_cost, Display
+      - Terminar classe do problema
+            - Definir metodos: Actions, Result, path_cost
       - Testar o problema
       - Aplicar algoritmos de procura
+      - Relatorio
