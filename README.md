@@ -3,5 +3,5 @@
 ## - Mini-Projeto 1 : Pacman Comilão
 
 ### - To Do:
-      - Aplicar algoritmos de procura
-      - Relatorio
+      - Rever relatório e melhorar se for preciso
+     
