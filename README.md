@@ -7,8 +7,6 @@
 ## - Mini-Projeto 3 : Aprendizagem Automática
 
 ### - To Do:
-      - Treinar arvore, knn, naive
-      - ajustar parametros
       - relatorio
       
      
