@@ -4,9 +4,4 @@
 
 ## - Mini-Projeto 2 : Quadrados Latinos ✔️
 
-## - Mini-Projeto 3 : Aprendizagem Automática
-
-### - To Do:
-      - relatorio
-      
-     
+## - Mini-Projeto 3 : Aprendizagem Automática ✔️
